@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './navbar.css'
-import logo from '/src/assets/logo.png'
+import logo from '/src/assets/1.png'
 import { useEffect } from 'react';
 import { Link } from 'react-scroll';
 import { RiMenu4Fill } from "react-icons/ri";

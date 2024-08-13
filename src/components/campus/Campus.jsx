@@ -1,8 +1,8 @@
 import './campus.css'
-import gallery_1 from '/src/assets/gallery-1.png'
+import gallery_1 from '/src/assets/c1.jpg'
 import gallery_2 from '/src/assets/gallery-2.png'
 import gallery_3 from '/src/assets/gallery-3.png'
-import gallery_4 from '/src/assets/gallery-4.png'
+import gallery_4 from '/src/assets/c2.jpg'
 import white_arrow from '/src/assets/white-arrow.png'
 
 const Campus = () => {
